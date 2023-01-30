@@ -1,7 +1,6 @@
 # Levex
-=================
 
-- Levex is a permissionless lending margin trading protocol that enables traders or other applications to long or short on any trading pair on DEXs efficiently and securely. 
+Levex is a permissionless lending margin trading protocol that enables traders or other applications to long or short on any trading pair on DEXs efficiently and securely. 
 Key features:
 - Margin Trading with Liquidity on DEXs, connecting traders to trade with the most liquid decentralized markets like Uniswap, PancakeSwap, SushiSwap, and more.
 - Risk Isolation Lending Pools, having two separated pools for each pair, and different risk and interest rate parameters, allow lenders to invest according to the risk-reward ratio.
@@ -12,4 +11,3 @@ Key features:
 - Very intuitive and user-friendly UI design.
 
 Website - https://levex.one
-Docs - https://levex.gitbook.io/levex-protocol
