@@ -234,7 +234,7 @@ library DexData {
             mc := end
             end := add(mc, length)
             for {
-                let cc := add(_postBytes, 0x20)
+                let cc := add(_postBytes, 0x20) 
             } lt(mc, end) {
                 mc := add(mc, 0x20)
                 cc := add(cc, 0x20)
