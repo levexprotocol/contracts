@@ -3,9 +3,7 @@ let kovan = exports.kovan = 'kovan';
 let bscTestnet = exports.bscTestnet = 'bscTestnet';
 let bscIntegrationTest = exports.bscIntegrationTest = 'bscIntegrationTest';
 let mainnet = exports.mainnet = 'mainnet';
-let kccMainnet = exports.kccMainnet = 'kccMainnet';
-let cronosTest = exports.cronosTest = 'cronosTest';
-let cronosMainnet = exports.cronosMainnet = 'cronosMainnet';
+
 
 
 
