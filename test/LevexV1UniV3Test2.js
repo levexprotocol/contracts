@@ -18,7 +18,7 @@ const TestToken = artifacts.require("MockERC20");
 contract("Levex UniV3", async accounts => {
 
   // components
-  let LevexV1Lib;
+  let LevexV1Lib; 
   let Levex;
   let LVX;
   let xLVX;
